@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Side vs Client Side</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background:#F0F8FF; }
+        h1, h2 { color: #DAA520; }
+        header { background:#6A5ACD; color: white; padding: 10px; text-align: center; }
+        section { background: white; padding: 15px; margin: 10px 0; border-radius: 5px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
+        th { background: #6A5ACD; color: white; }
+        footer { text-align: center; padding: 10px; background:#DAA520; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Server Side vs Client Side</h1>
+    </header>
+    <section>
+        <h2>Definição</h2>
+        <p>Server Side: Executada no servidor. Client Side: Executada no navegador.</p>
+    </section>
+    <section>
+        <h2>Exemplos</h2>
+        <strong>Server Side:</strong> PHP, Python, Ruby, Java.<br>
+        <strong>Client Side:</strong> JavaScript, HTML, CSS.
+    </section>
+    <section>
+        <h2>Diferenças</h2>
+        <table>
+            <tr><th>Característica</th><th>Server Side</th><th>Client Side</th></tr>
+            <tr><td>Execução</td><td>Servidor</td><td>Navegador</td></tr>
+            <tr><td>Segurança</td><td>Mais seguro</td><td>Menos seguro</td></tr>
+        </table>
+    </section>
+    <footer>
+</body>
+</html>
