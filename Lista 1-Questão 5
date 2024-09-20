@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paises do Mundo</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { text-align: center; }
+        h2 { color: #2c3e50; }
+        .country { margin: 10px 0; }
+        img { width: 50px; vertical-align: middle; margin-right: 10px; }
+    </style>
+</head>
+<body>
+
+    <h1>Paises do Mundo</h1>
+
+    <h2>América</h2>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil">Brasil</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Argentina" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Bandeira da Argentina">Argentina</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Chile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Bandeira do Chile">Chile</a></div>
+
+    <h2>Europa</h2>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Alemanha" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Bandeira da Alemanha">Alemanha</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Franca" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Bandeira da França">França</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Italia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Bandeira da Itália">Itália</a></div>
+
+    <h2>África</h2>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/N%C3%ADger" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Niger.svg" alt="Bandeira do Níger">Níger</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/S%C3%BAd%C3%A3" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" alt="Bandeira do Sudão">Sudão</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/S%C3%A9nia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Bandeira do Senegal">Senegal</a></div>
+
+    <h2>Ásia</h2>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Jap%C3%A3o" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Bandeira do Japão">Japao</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/China" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_China.svg" alt="Bandeira da China">China</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Índia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_India.svg" alt="Bandeira da Índia">Índia</a></div>
+
+    <h2>Oceania</h2>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg" alt="Bandeira da Austrália">Austrália</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Nova_Zel%C3%A2ndia" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_New_Zealand.svg" alt="Bandeira da Nova Zelândia">Nova Zelândia</a></div>
+    <div class="country"><a href="https://pt.wikipedia.org/wiki/Papua_Nova_Guine" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Papua_New_Guinea.svg" alt="Bandeira de Papua Nova Guiné">Papua Nova Guiné</a></div>
+
+</body>
